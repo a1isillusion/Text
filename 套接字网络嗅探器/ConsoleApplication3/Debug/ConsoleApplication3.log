@@ -1,0 +1,9 @@
+﻿  ConsoleApplication3.cpp
+c:\users\administrator\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(81): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(2218): note: 参见“gethostbyname”的声明
+c:\users\administrator\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(101): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\administrator\documents\visual studio 2017\projects\consoleapplication3\consoleapplication3\consoleapplication3.cpp(102): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+  ConsoleApplication3.vcxproj -> C:\Users\Administrator\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Administrator\documents\visual studio 2017\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Partial PDB)
